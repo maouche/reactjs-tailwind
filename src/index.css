@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-gray-200 py-12 px-12;
+}
+
+.app {
+    @apply flex flex-col items-center;
+}
+
+.title {
+    @apply text-4xl text-center;
+}
+
+.btn {
+    @apply bg-purple-700 text-white p-2.5 w-fit mt-9 rounded;
+}
