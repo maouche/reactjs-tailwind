@@ -4,7 +4,9 @@ A configuration to start a ReactJS project with Tailwind.
 
 ## Running it
 
-Just clone the repository, run `npm install`.
+Just clone the repository, run `npm install` to install modules.
+
+after installing the modules do an `npm start` to start.
 
 
 ## Issue Reporting
